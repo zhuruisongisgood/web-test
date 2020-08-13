@@ -11,4 +11,9 @@ public class DemoController {
     public String test(@PathVariable String name){
         return "welcome "+name;
     }
+
+
+    public void test(){
+        System.out.println(1);
+    }
 }
