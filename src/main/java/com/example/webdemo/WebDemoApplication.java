@@ -15,4 +15,8 @@ public class WebDemoApplication {
         System.out.println("c");
     }
 
+    public void E(){
+
+    }
+
 }
