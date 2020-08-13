@@ -10,4 +10,9 @@ public class WebDemoApplication {
         SpringApplication.run(WebDemoApplication.class, args);
     }
 
+
+    public void c(){
+        System.out.println("c");
+    }
+
 }
