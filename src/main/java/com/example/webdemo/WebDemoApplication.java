@@ -15,4 +15,8 @@ public class WebDemoApplication {
 
     }
 
+    public void E(){
+
+    }
+
 }
