@@ -7,6 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoController {
 
+    public void t5(){
+
+    }
+
     @RequestMapping("/test/{name}")
     public String test(@PathVariable String name){
         return "welcome " + name + "6";
