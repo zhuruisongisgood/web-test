@@ -11,8 +11,12 @@ public class WebDemoApplication {
     }
 
 
-    public void c(){
+    public void c() {
         System.out.println("c");
+    }
+    public void D(){
+    }
+    public void E(){
     }
 
 }
