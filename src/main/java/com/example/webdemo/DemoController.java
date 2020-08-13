@@ -13,7 +13,7 @@ public class DemoController {
 
     @RequestMapping("/test/{name}")
     public String test(@PathVariable String name){
-        return "welcome "+name;
+        return "welcome " + name + "6";
     }
 
 
